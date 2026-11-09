@@ -27,7 +27,7 @@ attack is only interesting to me once I can see what it left behind.
   and 11 techniques on my target list that I still cannot detect. That gap list
   is what decides the next rule I write.
 
-It is all in [purple-team-journey](https://github.com/Siddique-12300983/purple-team-journey).
+It is all in [purple-team-journey](https://github.com/ruxchipher/purple-team-journey).
 
 ### Skills I'm building
 
@@ -45,16 +45,16 @@ Scripting     Python, Bash
 
 | Repo | What it is |
 |---|---|
-| [purple-team-journey](https://github.com/Siddique-12300983/purple-team-journey) | My AD lab, attack-and-detect write-ups and weekly notes |
-| [attack-coverage-map](https://github.com/Siddique-12300983/attack-coverage-map) | Reads my rules and tools and reports what they cover, how deep, and where the gaps are. [Live heatmap](https://siddique-12300983.github.io/attack-coverage-map/) |
-| [persistwatch](https://github.com/Siddique-12300983/persistwatch) | Hunts persistence in systemd units and timers, mapped to ATT&CK |
-| [log-analyzer](https://github.com/Siddique-12300983/log-analyzer) | Flags brute-force and Kerberoasting in auth logs |
-| [sigma-detection-rules](https://github.com/Siddique-12300983/sigma-detection-rules) | Sigma detection rules mapped to MITRE ATT&CK |
-| [linux-hardening-script](https://github.com/Siddique-12300983/linux-hardening-script) | Idempotent Debian/Ubuntu hardening script |
-| [ioc-extractor](https://github.com/Siddique-12300983/ioc-extractor) | Pulls IOCs from text, handles defanged input |
-| [file-integrity-monitor](https://github.com/Siddique-12300983/file-integrity-monitor) | SHA-256 baseline and change detection for a directory |
-| [phishing-email-analyzer](https://github.com/Siddique-12300983/phishing-email-analyzer) | Offline .eml triage: headers, auth, URLs, red flags |
-| [password-breach-checker](https://github.com/Siddique-12300983/password-breach-checker) | Checks a password against HIBP using k-anonymity |
+| [purple-team-journey](https://github.com/ruxchipher/purple-team-journey) | My AD lab, attack-and-detect write-ups and weekly notes |
+| [attack-coverage-map](https://github.com/ruxchipher/attack-coverage-map) | Reads my rules and tools and reports what they cover, how deep, and where the gaps are. [Live heatmap](https://ruxchipher.github.io/attack-coverage-map/) |
+| [persistwatch](https://github.com/ruxchipher/persistwatch) | Hunts persistence in systemd units and timers, mapped to ATT&CK |
+| [log-analyzer](https://github.com/ruxchipher/log-analyzer) | Flags brute-force and Kerberoasting in auth logs |
+| [sigma-detection-rules](https://github.com/ruxchipher/sigma-detection-rules) | Sigma detection rules mapped to MITRE ATT&CK |
+| [linux-hardening-script](https://github.com/ruxchipher/linux-hardening-script) | Idempotent Debian/Ubuntu hardening script |
+| [ioc-extractor](https://github.com/ruxchipher/ioc-extractor) | Pulls IOCs from text, handles defanged input |
+| [file-integrity-monitor](https://github.com/ruxchipher/file-integrity-monitor) | SHA-256 baseline and change detection for a directory |
+| [phishing-email-analyzer](https://github.com/ruxchipher/phishing-email-analyzer) | Offline .eml triage: headers, auth, URLs, red flags |
+| [password-breach-checker](https://github.com/ruxchipher/password-breach-checker) | Checks a password against HIBP using k-anonymity |
 
 **For fun**
 
@@ -62,12 +62,12 @@ Small browser things, each a single page you can open and play with:
 
 | Repo | Live | What it is |
 |---|---|---|
-| [password-strength-visualizer](https://github.com/Siddique-12300983/password-strength-visualizer) | [open](https://siddique-12300983.github.io/password-strength-visualizer/) | Live password meter, entropy and crack-time, all in the browser |
-| [network-attack-map](https://github.com/Siddique-12300983/network-attack-map) | [open](https://siddique-12300983.github.io/network-attack-map/) | Animated map of simulated cyber attacks |
-| [typing-speed-game](https://github.com/Siddique-12300983/typing-speed-game) | [open](https://siddique-12300983.github.io/typing-speed-game/) | A clean typing speed test with WPM and a best score |
+| [password-strength-visualizer](https://github.com/ruxchipher/password-strength-visualizer) | [open](https://ruxchipher.github.io/password-strength-visualizer/) | Live password meter, entropy and crack-time, all in the browser |
+| [network-attack-map](https://github.com/ruxchipher/network-attack-map) | [open](https://ruxchipher.github.io/network-attack-map/) | Animated map of simulated cyber attacks |
+| [typing-speed-game](https://github.com/ruxchipher/typing-speed-game) | [open](https://ruxchipher.github.io/typing-speed-game/) | A clean typing speed test with WPM and a best score |
 
 ### Links
 
 - Portfolio: https://ruxchipher.com/
 - LinkedIn: https://linkedin.com/in/siddiqueabu
-- GitHub: https://github.com/Siddique-12300983
+- GitHub: https://github.com/ruxchipher
